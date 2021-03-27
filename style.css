@@ -1,0 +1,46 @@
+body {
+  background-color: salmon;
+  color: white;
+  text-align: center;
+  font-family: 'Source Code Pro', monospace;
+}
+.locations-images {
+  display: inline-grid;
+  padding-bottom: 100px;
+}
+#location-img {
+  width: 50%;
+  margin: auto;
+}
+.form-info {
+  display: inline;
+}
+form {
+  background-color: white;
+  color: black;
+  width: 25%;
+  float: right;
+  padding-bottom: 30px;
+  line-height: 2;
+}
+
+#submit-btn {
+  background-color: salmon;
+  color: white;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-size: 14px;
+}
+#submit-btn:hover {
+  background-color: black;
+  cursor: pointer;
+}
+
+footer {
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 15px;
+  text-align: center;
+  background-color: black;
+}
