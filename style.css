@@ -12,6 +12,12 @@ body {
   width: 50%;
   margin: auto;
 }
+.grads-work-at {
+  padding-bottom: 100px;
+}
+.grads-work-at li {
+  list-style-type: none;
+}
 .form-info {
   display: inline;
 }
